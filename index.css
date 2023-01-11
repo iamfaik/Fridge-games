@@ -1,0 +1,52 @@
+body{
+    background-image: url('https://img.freepik.com/free-vector/green-aesthetic-background-3d-twisted-fluid-shapes-vector_53876-157843.jpg');
+    background-size: 100%;
+}
+.body{
+    display: flex;
+}
+.rmv{
+    display: none;
+}
+.box{
+    width: 20px;
+    height: 20px;
+    border: 1px solid purple;
+    color: black;
+    margin: 2px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: darkgoldenrod;
+    border-radius: 5px;
+}
+.qutu{
+    width: 20px;
+    height: 20px;
+    border: 1px solid purple;
+    color: black;
+    margin: 2px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: darkgoldenrod;
+    border-radius: 5px;
+}
+.fridge{
+    background-image: url('./fridge.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    width: 380px;
+    height: 520px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+button{
+    border-radius: 5px;
+    background-color: brown;
+    color: bisque;
+    border: none;
+}
